@@ -96,7 +96,7 @@ The StreakForge Watch app automatically installs when you install the iPhone app
 
 - **Privacy Policy**: [PRIVACY_POLICY.md](PRIVACY_POLICY.md)
 - **Marketing Site**: [github.com/rfanimation/streakforge-site](https://github.com/rfanimation/streakforge-site)
-- **App Store**: [Download StreakForge](https://apps.apple.com/app/streakforge/id6739812123)
+- **App Store**: [Download StreakForge](https://apps.apple.com/us/app/streakforge/id6743309257)
 
 ---
 
